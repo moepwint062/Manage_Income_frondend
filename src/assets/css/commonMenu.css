@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #0097B1;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  overflow: hidden;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+
+.navbar-brand, .navbar-nav {
+  color: #FFFFFF;
+  font-size: 16px !important;
+}
+
+.nav-item a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.nav-link, .nav-item:hover, .nav-link:focus {
+  color: #FFFFFF !important;
+}

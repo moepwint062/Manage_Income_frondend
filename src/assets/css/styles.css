@@ -1,0 +1,23 @@
+.card-header {
+  background-color: #0097b1;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.config-btn {
+  width: 100px;
+}
+
+.form-control, .form-select, .modal-content, .modal-header, .btn{
+  font-size: 12px;
+}
+
+body{
+  /* overflow-x: hidden; */
+  font-size: 13px;
+}
